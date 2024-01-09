@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "Support Sidekick AI",
+    "short_description": "AI superpowers for your support team.",
+    "long_description": "Support Sidekick uses your Zendesk + GPT so your agents can send better responses at less cost.",
+    "installation_instructions": "Simply click install."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Suport Sidekick AI",
+  "author": {
+    "name": "Suport Sidekick",
+    "email": "lerfbr@gmail.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": {
+        "url": "https://ssk-frontend.ngrok.app/zendesk",
+        "flexible": true
+      }
+    }
+  },
+  "version": "1.0.0",
+  "frameworkVersion": "2.0"
+}

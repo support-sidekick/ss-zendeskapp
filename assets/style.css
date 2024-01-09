@@ -1,0 +1,18 @@
+#ssk-suggestions {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin: 0 4px 0 0;
+}
+
+#ssk-suggestions > .ssk-suggestion {
+  border-botom: 1px solid #eee;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 4px;
+  transition: background-color 0.3s ease;
+}
+
+#ssk-suggestions > .ssk-suggestion:hover {
+  background-color: #eee;
+}
