@@ -1,14 +1,6 @@
-# App name
+# Support Sidekick AI
 
-[brief description of the app]
+Support Sidekick uses your Zendesk + GPT so your agents can send better responses at less cost.
 
 ### The following information is displayed:
 
-* info1
-* info2
-* info3
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
-
-### Screenshot(s):
-[put your screenshots down here.]
