@@ -2,7 +2,7 @@
   "app": {
     "name": "Support Sidekick AI",
     "short_description": "AI superpowers for your support team.",
-    "long_description": "Support Sidekick uses your Zendesk + GPT so your agents can send better responses at less cost.",
-    "installation_instructions": "Simply click install."
+    "long_description": "### Support Sidekick AI\n\nSupport Sidekick provide AI superpowers for your support team. Support Sidekick uses your Help Scout history + GPT so your agents can send better responses at less cost.\n\n * Drafts read-to-go before you even open Zendesk\n * Relevant conversations give your agents the context they need\n\nHow it works\nWhen you receive an email in Zendesk – before your team even touches a ticket – Support Sidekick will:\n\n* Analyze the email to extract any questions, intent, or tone\n* Search through your closed ticket database to find the tickets most relevant to the customer's question\n* Display the most relevant threads in the Zendesk sidebar\n* Use GPT3 to write a Draft in Zendesk based on your previously answered tickets",
+    "installation_instructions": "Simply click the install button to Install within Zendesk.\n\n1. In the Zendesk navigation menu click on the app icon in order to configure your parsing service\n2. You will need a supportsidekick.ai account\n3. Signup and follow the instructions to active your account\n\nIf you have any questions or suggestions related to this app, please get in touch with us at support@supportsidekick.ai"
   }
 }
