@@ -2,10 +2,11 @@
   "name": "Suport Sidekick AI",
   "author": {
     "name": "Suport Sidekick",
-    "email": "lerfbr@gmail.com"
+    "email": "support@supportsidekick.ai",
+    "url": "https://supportsidekick.ai"
   },
   "defaultLocale": "en",
-  "private": true,
+  "private": false,
   "location": {
     "support": {
       "ticket_sidebar": {
